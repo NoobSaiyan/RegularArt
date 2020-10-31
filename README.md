@@ -1,3 +1,3 @@
-# Regular Art
+# Day Three
 
 ![Screenshot](screenshot.png)

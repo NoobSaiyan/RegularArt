@@ -1,0 +1,32 @@
+{
+  "name": "RegularArt",
+  "version": "1.0.0",
+  "description": "![Screenshot](screenshot.png)",
+  "main": "sketch.js",
+  "dependencies": {
+    "abs-svg-path": "^0.1.1",
+    "adaptive-bezier-curve": "^1.0.3",
+    "almost-equal": "^1.1.0",
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0",
+    "color-convert": "^0.5.3",
+    "nice-color-palettes": "^3.0.0",
+    "svg-arc-to-cubic-bezier": "^3.2.0",
+    "vec2-copy": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoobSaiyan/RegularArt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoobSaiyan/RegularArt/issues"
+  },
+  "homepage": "https://github.com/NoobSaiyan/RegularArt#readme"
+}
