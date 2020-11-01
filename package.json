@@ -1,0 +1,28 @@
+{
+  "name": "RegularArt",
+  "version": "1.0.0",
+  "description": "![Screenshot](screenshot.png)",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoobSaiyan/RegularArt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoobSaiyan/RegularArt/issues"
+  },
+  "homepage": "https://github.com/NoobSaiyan/RegularArt#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0",
+    "glsl-hsl2rgb": "^1.1.0",
+    "glsl-noise": "0.0.0",
+    "glslify": "^7.1.1",
+    "three": "^0.122.0"
+  }
+}

@@ -1,3 +1,3 @@
-# Regular Art
+# Day Four
 
 ![Screenshot](screenshot.png)
